@@ -1,0 +1,2 @@
+mysql.url: jdbc:mysql://14.215.104.99:6307/hive
+mysql.username: dm_admin
